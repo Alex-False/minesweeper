@@ -1,0 +1,22 @@
+.cell {
+  background-color: #bdbdbd;
+  border-width: 3px;
+  border-style: solid;
+  border-top-color: #ffffff;
+  border-left-color: #ffffff;
+  border-right-color: #7d7d7d;
+  border-bottom-color: #7d7d7d;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 40px;
+  width: 40px;
+
+  cursor: pointer;
+}
+
+.cell.clicked {
+  background-color: #f1f1f1;
+}

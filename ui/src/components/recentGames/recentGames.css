@@ -1,0 +1,21 @@
+.recent-games-container {
+  margin: 2rem;
+  padding: 2rem;
+  border: 1px solid #000;
+  border-radius: 10px;
+}
+
+.recent-games-header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.recent-games-ul {
+  list-style-type: none;
+}
+
+.recent-games-item {
+  margin-bottom: 10px;
+  border-bottom: 1px dotted #000;
+  padding-bottom: 5px;
+}
